@@ -12,8 +12,6 @@ I build backend services with Go. My focus is reliable data processing, asynchro
 - **Tools:** Docker, Docker Compose, Git, Grafana, Postman
 - **Quality:** unit and integration tests, code review
 
-Most of my repositories are private.
-
 ---
 
 <p align="center"><a href="https://github.com/Darkeip">@Darkeip</a></p>
